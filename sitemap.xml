@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://talero-dev.github.io/</loc></url>
+  <url><loc>https://talero-dev.github.io/pitchme/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://talero-dev.github.io/pitchme/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://talero-dev.github.io/pitchme/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://talero-dev.github.io/pitchme/"/></url>
+  <url><loc>https://talero-dev.github.io/pitchme/en/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://talero-dev.github.io/pitchme/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://talero-dev.github.io/pitchme/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://talero-dev.github.io/pitchme/"/></url>
+  <url><loc>https://talero-dev.github.io/pitchme/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://talero-dev.github.io/pitchme/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://talero-dev.github.io/pitchme/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://talero-dev.github.io/pitchme/privacy/"/></url>
+  <url><loc>https://talero-dev.github.io/pitchme/en/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://talero-dev.github.io/pitchme/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://talero-dev.github.io/pitchme/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://talero-dev.github.io/pitchme/privacy/"/></url>
+  <url><loc>https://talero-dev.github.io/pitchme/delete-account/</loc></url>
+  <url><loc>https://talero-dev.github.io/pitchme/terms/</loc></url>
+  <url><loc>https://talero-dev.github.io/pitchme/child-safety/</loc></url>
+</urlset>
